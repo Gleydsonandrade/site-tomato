@@ -80,6 +80,9 @@ main {
         width: 35px;
     }
 
+    main {
+        margin-top: 100px;
+    }
 
     main h2 {
         font-size: 25px;
