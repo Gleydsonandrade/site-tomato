@@ -76,8 +76,13 @@ main {
         font-size: 18px;
     }
 
+    button {
+        margin-right: 20px;
+    }
+
     nav a img {
         width: 35px;
+        margin-left: 20px;
     }
 
     main {
